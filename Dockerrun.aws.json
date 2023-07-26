@@ -20,7 +20,7 @@
         },
         {
             "name": "loginapp",
-            "image": "softwarebhayya/loginapp",
+            "image": "srikanth1261/loginapp",
             "environment": [
                 {
                     "name": "MSHOST",
